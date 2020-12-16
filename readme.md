@@ -9,7 +9,7 @@ Advanced Programming - Midterm Project
 Dr.Amir Jahanshahi
 </h2>
 <h3>
-Deadline: Thursday, 4 Dey - 23:00
+Deadline: Thursday, 11 Dey - 23:00
 </center>
   
 # Introduction
